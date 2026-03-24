@@ -4,3 +4,8 @@
 .idea/
 *.user
 *.suo
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
